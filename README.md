@@ -1,3 +1,7 @@
+# Welcome to my Github Page!
+
+I'm still just testing things out, check back later for more updates to my site!
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/RLashofRegas/RLashofRegas.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
